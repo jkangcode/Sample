@@ -1,0 +1,9 @@
+C:\Users\Joseph\Documents\DailyProgrammer\2017-06-24\PathToPhilosophy\PathToPhilosophy\bin\Debug\PathToPhilosophy.exe.config
+C:\Users\Joseph\Documents\DailyProgrammer\2017-06-24\PathToPhilosophy\PathToPhilosophy\bin\Debug\PathToPhilosophy.exe
+C:\Users\Joseph\Documents\DailyProgrammer\2017-06-24\PathToPhilosophy\PathToPhilosophy\bin\Debug\PathToPhilosophy.pdb
+C:\Users\Joseph\Documents\DailyProgrammer\2017-06-24\PathToPhilosophy\PathToPhilosophy\bin\Debug\WebDriver.dll
+C:\Users\Joseph\Documents\DailyProgrammer\2017-06-24\PathToPhilosophy\PathToPhilosophy\bin\Debug\WebDriver.xml
+C:\Users\Joseph\Documents\DailyProgrammer\2017-06-24\PathToPhilosophy\PathToPhilosophy\obj\Debug\PathToPhilosophy.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\DailyProgrammer\2017-06-24\PathToPhilosophy\PathToPhilosophy\obj\Debug\PathToPhilosophy.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\Documents\DailyProgrammer\2017-06-24\PathToPhilosophy\PathToPhilosophy\obj\Debug\PathToPhilosophy.exe
+C:\Users\Joseph\Documents\DailyProgrammer\2017-06-24\PathToPhilosophy\PathToPhilosophy\obj\Debug\PathToPhilosophy.pdb
